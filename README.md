@@ -3,7 +3,7 @@ Final_Project
 The purpose of our project is to propose a bootstrap-forecasting method for stock price forecasting under non-normality. 
 The data used for this analysis is from the Shanghai and Shenzhen stock exchanges at Tushare and was created by Mona.
 
-Data: #df = ts.get_hist_data('Stock code')
+Data: df = ts.get_hist_data('Stock code')
 
 Tools: Python, pandas, Tushare, ML models, R
 
